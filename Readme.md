@@ -15,6 +15,8 @@ This example demonstrates how to bind a [Pivot dashboard item](https://docs.deve
 
 - [Binding to Data](https://docs.devexpress.com/Dashboard/116771) 
 - [Dashboard Items](https://docs.devexpress.com/Dashboard/116521)
+- [Pivot](https://docs.devexpress.com/Dashboard/15266)
+- [Pivot > Providing Data](https://docs.devexpress.com/Dashboard/15456)
 
 ## More Examples 
 
